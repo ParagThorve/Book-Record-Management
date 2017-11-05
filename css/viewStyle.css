@@ -1,0 +1,10 @@
+#table_view
+{
+	border-style:solid;
+	border-color:maroon;
+	width:500px;
+}
+#table_view tr
+{
+	background-color:pink;
+}

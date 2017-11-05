@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Home Page</title>
+  <link rel="stylesheet" href="./css/homeStyle.css">
+ </head>
+ <body>
+  <h1> Book Record Management</h1>
+  <ul id="hor_nav">
+   <li><a href="insertForm.php">Insert Record</a></li>
+   <li><a href="view.php">View Record</a></li>
+   <li><a href="deleteForm.php">Delete Record</a></li>
+   <li><a href="updateForm.php">Update Record</a></li>
+  </ul>
+ </body>
+</html>

@@ -1,0 +1,23 @@
+#hor_nav{
+		list-style-type:none;
+		bottom-margin:10px;
+		padding:0;
+		overflow:hidden;
+		background-color:orange;
+}
+#hor_nav li a{
+			display:block;
+			text-decoration:none;
+			border-width:0px;
+			color:white;
+			padding:14px 16px;
+}
+#hor_nav li{
+			float:left;
+}
+#hor_nav li a:hover{
+					background-color:gray;
+}
+h1{
+	color:powderblue;
+}
